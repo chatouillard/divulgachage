@@ -16,4 +16,14 @@ header{
     background-color: greenyellow;
     border-radius: 25%;
     border: none;
+    color: rgb(24, 26, 23);
+}
+
+.bouton2{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(24, 26, 23);
+    border-radius: 25%;
+    border: none;
+    color: greenyellow;
 }

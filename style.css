@@ -1,5 +1,10 @@
 h1{
     color: greenyellow;
     text-align: center;
-    
+}
+
+header{
+    display: block;
+    width: 100vw;
+    height: 50px;
 }
